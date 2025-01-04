@@ -2,11 +2,11 @@ This is a glove designed for the blind or visually impaired that converts depth 
 
 **Device Flow Chart**
 
-![Flow Chart of Haptic Glove]("Images/FlowChart.jpg")
+![Flow Chart of Haptic Glove](https://github.com/PeterAlpajaro/Haptic_Feedback_Glove/blob/main/Images/FlowChart.jpg)
 
 **Prototyping Image**
 
-![Image of Prototype]("Images/HapticGlovePrototpye.HEIC")
+![Image of Prototype](https://github.com/PeterAlpajaro/Haptic_Feedback_Glove/blob/main/Images/HapticGlovePrototype.HEIC)
 
 **Code File Structure**
 

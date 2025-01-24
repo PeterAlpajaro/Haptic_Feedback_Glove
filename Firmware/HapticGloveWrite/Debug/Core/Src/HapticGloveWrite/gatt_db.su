@@ -1,0 +1,6 @@
+../Core/Src/HapticGloveWrite/gatt_db.c:100:12:Add_HWServW2ST_Service	64	static
+../Core/Src/HapticGloveWrite/gatt_db.c:132:12:Grid_Update	56	static
+../Core/Src/HapticGloveWrite/gatt_db.c:170:6:Read_Request_CB	88	static
+../Core/Src/HapticGloveWrite/gatt_db.c:197:6:printBits	32	static
+../Core/Src/HapticGloveWrite/gatt_db.c:213:5:compare_floats	24	static
+../Core/Src/HapticGloveWrite/gatt_db.c:227:6:Attribute_Modified_Request_CB	80	static

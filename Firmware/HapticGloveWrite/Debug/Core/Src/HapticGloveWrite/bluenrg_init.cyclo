@@ -1,0 +1,12 @@
+../Core/Src/HapticGloveWrite/bluenrg_init.c:62:6:MX_BlueNRG_2_Init	2
+../Core/Src/HapticGloveWrite/bluenrg_init.c:93:6:MX_BlueNRG_2_Process	1
+../Core/Src/HapticGloveWrite/bluenrg_init.c:107:13:User_Init	1
+../Core/Src/HapticGloveWrite/bluenrg_init.c:126:9:Sensor_DeviceInit	11
+../Core/Src/HapticGloveWrite/bluenrg_init.c:289:13:User_Process	8
+../Core/Src/HapticGloveWrite/bluenrg_init.c:343:9:getBlueNRGVersion	2
+../Core/Src/HapticGloveWrite/bluenrg_init.c:372:6:hci_le_connection_complete_event	2
+../Core/Src/HapticGloveWrite/bluenrg_init.c:403:6:hci_disconnection_complete_event	1
+../Core/Src/HapticGloveWrite/bluenrg_init.c:426:6:aci_gatt_read_permit_req_event	1
+../Core/Src/HapticGloveWrite/bluenrg_init.c:438:6:aci_gatt_attribute_modified_event	1
+../Core/Src/HapticGloveWrite/bluenrg_init.c:456:6:aci_gap_pass_key_req_event	2
+../Core/Src/HapticGloveWrite/bluenrg_init.c:476:6:aci_gap_pairing_complete_event	2

@@ -1,0 +1,2 @@
+../Core/Src/HapticGloveWrite/sensor.c:51:6:Set_DeviceConnectable	2
+../Core/Src/HapticGloveWrite/sensor.c:104:6:APP_UserEvtRx	10

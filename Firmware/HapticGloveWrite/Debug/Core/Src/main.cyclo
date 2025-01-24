@@ -1,0 +1,13 @@
+../Core/Src/main.c:66:6:change_pwm_pulse	6
+../Core/Src/main.c:72:6:change_pwm_pulse_2	6
+../Core/Src/main.c:89:5:main	1
+../Core/Src/main.c:161:6:SystemClock_Config	4
+../Core/Src/main.c:206:13:MX_LPUART1_UART_Init	2
+../Core/Src/main.c:240:13:MX_USART3_UART_Init	2
+../Core/Src/main.c:275:13:MX_TIM1_Init	5
+../Core/Src/main.c:344:13:MX_TIM2_Init	5
+../Core/Src/main.c:397:13:MX_TIM16_Init	5
+../Core/Src/main.c:459:13:MX_GPIO_Init	1
+../Core/Src/main.c:529:5:__io_putchar	1
+../Core/Src/main.c:534:5:_write	2
+../Core/Src/main.c:550:6:Error_Handler	1
